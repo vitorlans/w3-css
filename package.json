@@ -1,0 +1,27 @@
+{
+  "name": "w3-css",
+  "version": "2.8.5",
+  "description": "W3.CSS is a modern CSS framework with built-in responsiveness",
+  "main": "w3.css",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorlans/w3-css.git"
+  },
+  "keywords": [
+    "css",
+    "w3css",
+    "w3-css",
+    "w3c"
+  ],
+  "author": "vitorlans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorlans/w3-css/issues"
+  },
+  "homepage": "https://github.com/vitorlans/w3-css#readme"
+}
