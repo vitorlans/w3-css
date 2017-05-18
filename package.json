@@ -1,6 +1,6 @@
 {
     "name": "w3-css",
-    "version": "2.9.9",
+    "version": "4.0.4",
     "description": "W3.CSS is a modern CSS framework with built-in responsiveness",
     "main": "w3.css",
     "dependencies": {},

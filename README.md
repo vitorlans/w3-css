@@ -21,4 +21,22 @@ W3.CSS is a modern CSS framework with built-in responsiveness:
 npm install w3-css
 ```
 
+Usages:
+```sh
+Lastest Version (Version 4)
+import 'w3-css/w3.css';
+
+Version 3
+import 'w3-css/3/w3.css';
+
+W3.CSS - Pro
+import 'w3-css/4/w3pro.css';
+
+W3.CSS - Mobile
+import 'w3-css/4/w3mobile.css';
+
+```
+And to you know about the different between versions
+see the link https://www.w3schools.com/w3css/w3css_versions.asp
+
 You can read more about w3-css on http://www.w3schools.com/w3css/default.asp:
