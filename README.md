@@ -69,7 +69,7 @@ git clone https://github.com/RouEmpire/w3.css-Thai-Edition
         <p class="w3-sarabun">อันนี้คือ Sarabun</p>
         <p class="w3-code">อันนี้คือ IBM Plex Sans Thai</p>
     </div>
-</div>>
+</div>
 ```
 หากคุณเห็นการแสดงผลเป็น Panel สีเทา มี Border สีแดง และแสดงฟอนต์ถูกต้อง แปลว่า W3.CSS ได้ถูกติดตั้งเรียบร้อยแล้ว
 
