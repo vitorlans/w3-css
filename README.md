@@ -39,10 +39,10 @@ W3.CSS คือ CSS Framework ยุคใหม่ที่มาพร้อ�
 
 ````css
 /*W3.CSS Thai Edition Font-Face Section*/
-@font-face {font-family: Athiti;  src: url(Path/To/Athiti.ttf)}
-@font-face {font-family: Sarabun; src: url(Sarabun.ttf)}
-@font-face {font-family: Mitr;    src: url(Mitr.ttf)}
-@font-face {font-family: 'IBM Plex Sans Thai';src: url('IBM Plex Sans Thai.ttf')}
+@font-face {font-family: custom-Athiti;  src: url(Path/To/Athiti.ttf)}
+@font-face {font-family: custom-Sarabun; src: url(Sarabun.ttf)}
+@font-face {font-family: custom-Mitr;    src: url(Mitr.ttf)}
+@font-face {font-family: 'custom IBM Plex Sans Thai';src: url('IBM Plex Sans Thai.ttf')}
 ````
 จากนั้นให้ใส่ Path ไปที่ไฟล์ขอฟอนต์ที่ต้องการ ในส่วนของ ```src: url(ชื่อ/ของ/ฟอนต์.ttf)``` ของทุกๆ ฟอนต์ที่มีใน Section
 
@@ -50,7 +50,7 @@ W3.CSS คือ CSS Framework ยุคใหม่ที่มาพร้อ�
 
 ดาวน์โหลด Repo นี้และนำไฟล์ **w3.css** ไปใส่ในโปรเจกต์ที่ต้องการ หากจะทำผ่าน Terminal ให้ใช้คำสั่ง
 ```shell
-$ git clone https://github.com/RouEmpire/w3.css-Thai-Edition
+git clone https://github.com/RouEmpire/w3.css-Thai-Edition
 ```
 
 จากนั้นให้นำ Code ด้านล่างนี้ไปใส่ใน ```<head>``` ของไฟล์ HTML ที่ต้องการจะนำ Framework นี้ไปใช้

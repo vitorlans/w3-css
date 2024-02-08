@@ -1,10 +1,10 @@
 /* W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /*W3.CSS Thai Edition Font-Face Section*/
-@font-face {font-family: Athiti;src: url(Path/To/Athiti.ttf)}
-@font-face {font-family: Sarabun;src: url(Sarabun.ttf)}
-@font-face {font-family: Mitr;src: url(Mitr.ttf)}
-@font-face {font-family: 'IBM Plex Sans Thai';src: url('IBM Plex Sans Thai.ttf')}
+@font-face {font-family: custom-Athiti;src: url(Path/To/Athiti.ttf)}
+@font-face {font-family: custom-SarabunSarabun;src: url(Sarabun.ttf)}
+@font-face {font-family: custom-Mitr;src: url(Mitr.ttf)}
+@font-face {font-family: 'custom IBM Plex Sans Thai';src: url('IBM Plex Sans Thai.ttf')}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}
