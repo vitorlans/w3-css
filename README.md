@@ -62,14 +62,16 @@ git clone https://github.com/RouEmpire/w3.css-Thai-Edition
 
 ทดลองโดยการใส่ Code นี้ลงไปบนหน้าเว็บ
 ```html
-<div class="w3-panel w3-grey w3-border w3-border-blue">
-    <h1>ฮัลโหลๆ เทสๆ ที่คือ Mitr</h1>
-    <p>อันนี้คือ Athiti</p>
-    <p class="w3-sarabun">อันนี้คือ Sarabun</p>
-    <p class="w3-code">อันนี้คือ IBM Plex Sans Thai</p>
-</div>
+<div class="w3-container">
+    <div class="w3-panel w3-grey w3-border w3-border-red">
+        <h1>ฮัลโหลๆ เทสๆ ที่คือ Mitr</h1>
+        <p>อันนี้คือ Athiti</p>
+        <p class="w3-sarabun">อันนี้คือ Sarabun</p>
+        <p class="w3-code">อันนี้คือ IBM Plex Sans Thai</p>
+    </div>
+</div>>
 ```
-หากคุณเห็นการแสดงผลเป็น Panel สีเทา มี Border สีน้ำเงิน และแสดงฟอนต์ถูกต้อง แปลว่า W3.CSS ได้ถูกติดตั้งเรียบร้อยแล้ว
+หากคุณเห็นการแสดงผลเป็น Panel สีเทา มี Border สีแดง และแสดงฟอนต์ถูกต้อง แปลว่า W3.CSS ได้ถูกติดตั้งเรียบร้อยแล้ว
 
 ---
 
