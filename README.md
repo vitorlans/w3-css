@@ -67,8 +67,8 @@ git clone https://github.com/RouEmpire/w3.css-Thai-Edition
     <div class="w3-panel w3-grey w3-border w3-border-red">
         <h1>ฮัลโหลๆ เทสๆ ที่คือ Mitr</h1>
         <p>อันนี้คือ Athiti</p>
-        <code class="w3-sarabun">อันนี้คือ Sarabun ที่อยู่ใน <code> <code> </code> </code>
-        <p class="w3-code">อันนี้คือ IBM Plex Sans Thai ที่อยู่ใน <code> <p> </code> </p>
+        <code class="w3-sarabun">อันนี้คือ Sarabun ที่อยู่ใน <code> </code>
+        <p class="w3-code">อันนี้คือ IBM Plex Sans Thai ที่อยู่ใน <p> </p>
     </div>
 </div>
 ```
