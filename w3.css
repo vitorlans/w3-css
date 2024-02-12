@@ -2,10 +2,10 @@
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /*W3.CSS Thai Edition Font-Face Section*/
 @font-face {font-family: 'Athiti';src: url(Athiti.ttf)}
-@font-face {font-family: 'TH Sarabun New';src: url(TH_Sarabun_New.ttf)}
+@font-face {font-family: 'TH Sarabun New';src: url('TH Sarabun New.ttf')}
 @font-face {font-family: 'Mitr ';src: url(Mitr.ttf)}
-@font-face {font-family: 'Noto Serif Thai'; src: url(Noto_Serif_Thai.ttf);}
-@font-face {font-family: 'IBM Plex Sans Thai';src: url('IBM_Plex_Sans_Thai.ttf')}
+@font-face {font-family: 'Noto Serif Thai';src: url('Noto Serif Thai.ttf');}
+@font-face {font-family: 'IBM Plex Sans Thai';src: url('IBM Plex Sans Thai.ttf')}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}

@@ -41,11 +41,11 @@ W3.CSS คือ CSS Framework ยุคใหม่ที่มาพร้อ�
 
 ````css
 /*W3.CSS Thai Edition Font-Face Section*/
-@font-face {font-family: 'Athiti'            ;src: url(Athiti.ttf)}
-@font-face {font-family: 'TH Sarabun New'    ;src: url(TH_Sarabun_New.ttf)}
-@font-face {font-family: 'Mitr '             ;src: url(Mitr.ttf)}
-@font-face {font-family: 'Noto Serif Thai'   ; src: url(Noto_Serif_Thai.ttf);}
-@font-face {font-family: 'IBM Plex Sans Thai';src: url('IBM_Plex_Sans_Thai.ttf')}
+@font-face {font-family: 'Athiti'             ;src: url(Athiti.ttf)}
+@font-face {font-family: 'TH Sarabun New'     ;src: url('TH Sarabun New.ttf')}
+@font-face {font-family: 'Mitr '              ;src: url(Mitr.ttf)}
+@font-face {font-family: 'Noto Serif Thai'    ;src: url('Noto Serif Thai.ttf');}
+@font-face {font-family: 'IBM Plex Sans Thai' ;src: url('IBM Plex Sans Thai.ttf')}
 ````
 จากนั้นให้ใส่ Path ไปที่ไฟล์ขอฟอนต์ที่ต้องการ ในส่วนของ ```src: url(ชื่อ/ของ/ฟอนต์.ttf)``` ของทุกๆ ฟอนต์ที่มีใน Section
 
@@ -60,7 +60,7 @@ git clone https://github.com/RouEmpire/w3.css-Thai-Edition
 จากนั้นให้นำ Code ด้านล่างนี้ไปใส่ใน ```<head>``` ของไฟล์ HTML ที่ต้องการจะนำ Framework นี้ไปใช้
 
 ```css
-<link rel="stylesheet" href="./w3.css-Thai-Edition/w3.css">
+<link rel="stylesheet" href="w3.css-Thai-Edition/w3.css">
 ```
 เปลี่ยน Value ของ ```href``` เป็น Path ไปที่ไฟล์ w3.css ในโปรเจกต์นั้นๆ
 
