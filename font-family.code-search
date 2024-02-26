@@ -1,0 +1,80 @@
+# Query: font-family
+# ContextLines: 1
+
+39 results - 4 files
+
+README.md:
+  41  /*W3.CSS Thai Edition Font-Face Section*/
+  42: @font-face {font-family: 'Noto Sans'             ;src: url(Noto Sans.ttf)}
+  43: @font-face {font-family: 'TH Sarabun New'     ;src: url('TH Sarabun New.ttf')}
+  44: @font-face {font-family: 'Mitr '              ;src: url(Mitr.ttf)}
+  45: @font-face {font-family: 'Noto Serif Thai'    ;src: url('Noto Serif Thai.ttf');}
+  46: @font-face {font-family: 'IBM Plex Sans Thai' ;src: url('IBM Plex Sans Thai.ttf')}
+  47  ````
+
+w3.css:
+    3  /*W3.CSS Thai Edition Font-Face Section*/
+    4: @font-face {font-family: 'Noto Sans';src: url(Noto Sans.ttf)}
+    5: @font-face {font-family: 'TH Sarabun New';src: url('TH Sarabun New.ttf')}
+    6: @font-face {font-family: 'Mitr ';src: url(Mitr.ttf)}
+    7: @font-face {font-family: 'Noto Serif Thai';src: url('Noto Serif Thai.ttf');}
+    8: @font-face {font-family: 'IBM Plex Sans Thai';src: url('IBM Plex Sans Thai.ttf')}
+    9  /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
+
+   18  sub{bottom:-0.25em}sup{top:-0.5em}figure{margin:1em 40px}img{border-style:none}svg:not(:root){overflow:hidden}
+   19: code,kbd,pre,samp{font-family:monospace,'IBM Plex Sans Thai','TH Sarabun new','TH Sarabun New';font-size:1em}hr{box-sizing:content-box;height:0;overflow:visible}
+   20  button,input,select,textarea{font:inherit;margin:0}optgroup{font-weight:bold}
+
+   33  /* End extract */
+   34: html,body{font-family:'Noto Sans','TH Sarabun new','TH Sarabun New','TH Sarabun PSK',Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
+   35: h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.w3-serif{font-family:serif,'Noto Serif Thai','Noto Sans','TH Sarabun new','TH Sarabun New';}.w3-sarabun{font-family:'TH Sarabun new','TH Sarabun New','serif'}.w3-sarabun-large{font-family:'TH Sarabun new','TH Sarabun New','serif';font-size: x-large}
+   36: h1,h2,h3,h4,h5,h6{font-family:'Mitr','TH Sarabun new','TH Sarabun New','TH Sarabun PSK',"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
+   37  hr{border:0;border-top:1px solid #eee;margin:20px 0}
+
+  114  .w3-container,.w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}
+  115: .w3-code,.w3-codespan{font-family:Consolas,"courier new",'IBM Plex Sans Thai',"TH Sarabun new","TH Sarabun New";font-size:16px}
+  116  .w3-code{width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
+
+4/w3mobile.css:
+    3  /*W3.CSS Thai Edition Font-Face Section*/
+    4: @font-face {font-family: 'Noto Sans';src: url(Noto Sans.ttf)}
+    5: @font-face {font-family: 'TH Sarabun New';src: url('TH Sarabun New.ttf')}
+    6: @font-face {font-family: 'Mitr ';src: url(Mitr.ttf)}
+    7: @font-face {font-family: 'Noto Serif Thai';src: url('Noto Serif Thai.ttf');}
+    8  /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
+
+   17  sub{bottom:-0.25em}sup{top:-0.5em}figure{margin:1em 40px}img{border-style:none}svg:not(:root){overflow:hidden}
+   18: code,kbd,pre,samp{font-family:monospace,'IBM Plex Sans Thai','TH Sarabun new','TH Sarabun New';font-size:1em}hr{box-sizing:content-box;height:0;overflow:visible}
+   19  button,input,select,textarea{font:inherit;margin:0}optgroup{font-weight:bold}
+
+   32  /* End extract */
+   33: html,body{font-family:'Noto Sans','TH Sarabun new','TH Sarabun New','TH Sarabun PSK',Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
+   34: h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.w3-serif{font-family:serif,'Noto Sans','TH Sarabun new','TH Sarabun New'}.w3-sarabun{font-family:'custom-Sarabun','TH Sarabun new','TH Sarabun New','serif'}.w3-sarabun-large{font-family:'custom-Sarabun','TH Sarabun new','TH Sarabun New','serif';font-size: x-large;}
+   35: h1,h2,h3,h4,h5,h6{font-family:'Mitr','TH Sarabun new','TH Sarabun New','TH Sarabun PSK',"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
+   36  hr{border:0;border-top:1px solid #eee;margin:20px 0}
+
+  101  .w3-container,.w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}
+  102: .w3-code,.w3-codespan{font-family:Consolas,"courier new",'IBM Plex Sans Thai',"TH Sarabun new","TH Sarabun New";font-size:16px}
+  103  .w3-code{width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
+
+4/w3pro.css:
+    3  /*W3.CSS Thai Edition Font-Face Section*/
+    4: @font-face {font-family: 'Noto Sans';src: url(Noto Sans.ttf)}
+    5: @font-face {font-family: 'TH Sarabun New';src: url('TH Sarabun New.ttf')}
+    6: @font-face {font-family: 'Mitr ';src: url(Mitr.ttf)}
+    7: @font-face {font-family: 'Noto Serif Thai';src: url('Noto Serif Thai.ttf');}
+    8  /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
+
+   17  sub{bottom:-0.25em}sup{top:-0.5em}figure{margin:1em 40px}img{border-style:none}svg:not(:root){overflow:hidden}
+   18: code,kbd,pre,samp{font-family:monospace,'IBM Plex Sans Thai','TH Sarabun new','TH Sarabun New';font-size:1em}hr{box-sizing:content-box;height:0;overflow:visible}
+   19  button,input,select,textarea{font:inherit;margin:0}optgroup{font-weight:bold}
+
+   32  /* End extract */
+   33: html,body{font-family:'Noto Sans','TH Sarabun new','TH Sarabun New','TH Sarabun PSK',Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
+   34: h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.w3-serif{font-family:serif,'Noto Sans','TH Sarabun new','TH Sarabun New';}.w3-sarabun{font-family:'TH Sarabun new','TH Sarabun New','serif'}.w3-sarabun-large{font-family:'TH Sarabun new','TH Sarabun New','serif';font-size: x-large;}
+   35: h1,h2,h3,h4,h5,h6{font-family:'Mitr','TH Sarabun new','TH Sarabun New','TH Sarabun PSK',"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.w3-wide{letter-spacing:4px}
+   36  hr{border:0;border-top:1px solid #eee;margin:20px 0}
+
+  113  .w3-container,.w3-panel{padding:0.01em 16px}.w3-panel{margin-top:16px;margin-bottom:16px}
+  114: .w3-code,.w3-codespan{font-family:Consolas,"courier new",'IBM Plex Sans Thai',"TH Sarabun new","TH Sarabun New";font-size:16px}
+  115  .w3-code{width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
